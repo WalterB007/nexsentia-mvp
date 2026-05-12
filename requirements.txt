@@ -1,0 +1,9 @@
+python-dotenv
+requests
+pydantic
+numpy
+sentence-transformers
+umap-learn
+hdbscan
+fastapi
+uvicorn

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILMgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Toulouse",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAF0M0ZkxU5NDuTGmD0vlIyU="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILMQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAI6wi60OERJPrzmPsAntUig="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILMAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQADVoNFdbv2hBquczqSrY_OI="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILLwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAJ1A2o9kA15GoSBCTzMzMgE="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILLgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Paris Flagship",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAMYfDzaf8k5Fl4J3aJF_BTE="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILLQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Lille",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAP4RiU_Ia9NNm4v39oq3LAM="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILLAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Marseille",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQADH6O-4_PMBBsNlTaFO_yJM="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILKwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Marseille",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAOmpOBwMNFNDtFHuCvsqpM8="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILKgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAPiA6Vl3aqBCtYgS1JpIi0A="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILKQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nantes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQANYVDQkmnupKtUX3YGD2eGo="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILKAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nice",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAH0fjYnWL1lNskIuG1Ckwc0="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILJwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nantes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAMWy2GghzsNChIHdLvThAFQ="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILJgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nice",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAKYvvnh_Hu5Mlxckdc0SLv4="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILJQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nantes",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQADvwf6HLWtxNl2MUidgTHNQ="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILJAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Strasbourg",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAL2sKRMGvn5FhTB6iZB_Dm0="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILIwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Marseille",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQABnF3H_VTr5FgP4UGqgyRrk="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILIgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Paris Flagship",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAKuRIQ7d2CJJvK5nAa9jT70="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILIQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Bordeaux",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAEiAfF3b7fVOsQ3sq781pxQ="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILIAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nantes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQALtvkCJZfkhPogStHoeMylQ="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILHwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Toulouse",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAAIM6CqrIblCvLTPXOnEgSg="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILHgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQACyFa--zA4hHquKFjvNdjCU="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILHQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Paris Flagship",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQABl83HoksodFrTehTjkIK_s="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILHAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Strasbourg",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQANPJAjmfeGRLgZviYae8nig="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILGwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Rennes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAOzaEe_LrqVDiDNv99b9ykU="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILGgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Lille",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAHcARqH8SwJAk1q2oi_25M4="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILGQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nantes",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAMPX24EDeTFBs5OgUItxXGc="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILGAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Strasbourg",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQANxIGVzPfOpMmKycVjVs5xk="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILFwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAHUyPpYTHrZGk48_9ng_0Ss="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILFgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Rennes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAFQDmgSG-AxJuoqJu0DlBsE="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILFQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Marseille",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAGJwbZdauBJHsjpxHw3A-b4="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILFAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQADEGhUZSxRdLh1OK_6bAi1M="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILEwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Rennes",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAJB4XzcRGZhNmu09C7uZx64="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILEgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nice",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAB2dJosrP15ItMzWiThctKc="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILEQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Marseille",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAH_v2BZqX2tMu8yetiIaxQo="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILEAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Rennes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAAPVtzqFKARKqexJIXFvoSY="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILDwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Toulouse",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAAjJV6SbQJVHpXF3KC9TzWk="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILDgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Lille",
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAIjmone2JbdIvT_7xtBFkn4="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILDQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Strasbourg",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQANxrYIZCItVGpV9mi1vYqps="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILDAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Paris Flagship",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAPlpnAtjoLZDpOX3A8cbZhA="
+    }
+  },
+  {
+    "id": "outlook-AAMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgBGAAAAAACEZldcu8vRQ4vk1F6NMtGvBwB-nKyVaQl6QLp6oeZNFBOYAAAAAAEMAAB-nKyVaQl6QLp6oeZNFBOYAAAAAAsLAAA=",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Rennes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQABS-CHO7qmFCt-xWVuhSYp8="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILCgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Toulouse",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAObxJRcWHftIqOYW9mTakKY="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILCQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Marseille",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAHZ9tFyCfjZGppfQcNB_UO8="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILCAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Strasbourg",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAODQvBBxM7JFgb2bGxNMApA="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILBwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Lyon Centre",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQACMOTZJOpxhOi2MBiGpqevc="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILBgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Lyon Centre",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAI62YBJwVvxOtfMdcZQkiEc="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILBQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Toulouse",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQANSJU3LJPkZMmmW4df9W0qI="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILBAAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Bordeaux",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAL_LYG2IXUpAkwa2K-KCqYg="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILAwAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Nantes",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAFWoBsqfMXZOv2yLAthpJOU="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILAgAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": null,
+      "risk_topic": "Supply Delay",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAI-62nYnbI9LuwpQOTjtR9Y="
+    }
+  },
+  {
+    "id": "outlook-AQMkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQANTZkMDYARgAAA4RmV1y7y9FDi_TUXo0y0a8HAH_crJVpCXpAunqh5k0UE5gAAAIBDAAAAH_crJVpCXpAunqh5k0UE5gAAAILAQAAAA==",
+    "payload": {
+      "source_system": "Outlook",
+      "store": "Toulouse",
+      "risk_topic": "Order Promise Risk",
+      "thread_id": "AAQkADcxM2IxZGE1LWY3ZGEtNDVkMC1iN2I2LTM2ZDM1NDQ1NmQwNgAQAEKLG27kP7dMgTiXru1MEU0="
+    }
+  }
+]
